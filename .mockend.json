@@ -144,6 +144,7 @@
         "Wolfgang Ernst Pauli",
         "Zora Neale Hurston"
       ]
-    }
+    },
+    "avatar": { "regexp": "https://i.pravatar.cc/250?u=[0-250]{5}" },
   }
 }
